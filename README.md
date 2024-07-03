@@ -8,6 +8,11 @@
 <p align="center"><a href="https://devfrann.netlify.app" target ='_blank'>Portfolio↗️</a></p>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/spidertocat.png">
 
+<h3>About me</h3>
+
+I'm a web developer :star: , I like to program :computer: and play basketball :basketball:. 
+
+
 <h3>Contact me</h2>
 
 <a href="https://www.instagram.com/_mfrann/">![Instagram](https://img.shields.io/badge/mfrann-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://x.com/_mfrann">![X](https://img.shields.io/badge/mfrann-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)</a>

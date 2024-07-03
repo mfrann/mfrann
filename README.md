@@ -14,10 +14,12 @@
 
  🌱 I’m currently learning **TypeScript**
 
- 💬 Contact me on my socials: 
+ 💬 Contact me on my socials: <br />
  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+ 
  📫 Reach out to me: **mfranfc@gmail.com**
-
-
+ 
  :dizzy: **My first line of code was "Hello hi!"**

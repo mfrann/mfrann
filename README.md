@@ -8,13 +8,14 @@
 <p align="center"><a href="https://devfrann.netlify.app" target ='_blank'>Portfolio↗️</a></p>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/spidertocat.png">
 
-<h3>About me</h3>
+<h3>About me</h2>
 
  🔭 I’m currently working on [My portfolio website](https://devfrann.netlify.app)
 
  🌱 I’m currently learning **TypeScript**
 
- 💬 Contact me on my 
+ 💬 Contact me on my socials: 
+ <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
  📫 Reach out to me: **mfranfc@gmail.com**
 

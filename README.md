@@ -10,5 +10,5 @@
 
 <h3>Contact me</h2>
 
-<a href="https://www.instagram.com/LachlanDev/">![Instagram](https://img.shields.io/badge/LachlanDev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/LachlanDev">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.com/invite/w7B5nKB">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
-</a> ![Discord](https://img.shields.io/badge/LachlanDev%238014-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+<a href="https://www.instagram.com/_mfrann/">![Instagram](https://img.shields.io/badge/mfrann-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://x.com/_mfrann">![Twitter](https://img.shields.io/badge/mfrann-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+</a> ![Discord](https://img.shields.io/badge/mfrann%238014-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)

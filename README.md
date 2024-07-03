@@ -13,6 +13,8 @@
 I'm 17 years old and I study in my school Santo Domingo Savio :blue_book: <br/> 
 I'm a web developer :star:  I like to program :computer: and play basketball :basketball:
 
+<h3>My skills</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <h3>Contact me</h2>
 

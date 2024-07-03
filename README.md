@@ -10,6 +10,7 @@
 
 <h3>About me</h3>
 
+I'm 17 years old and I study in my school Santo Domingo Savio :blue_book:
 I'm a web developer :star: , I like to program :computer: and play basketball :basketball:. 
 
 

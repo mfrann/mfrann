@@ -7,3 +7,16 @@
     </div>  
 <p align="center"><a href="https://devfrann.netlify.app" target ='_blank'>Portfolio↗️</a></p>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/spidertocat.png">
+
+<h3>About me</h3>
+
+ 🔭 I’m currently working on [My portfolio website](https://devfrann.netlify.app)
+
+ 🌱 I’m currently learning **TypeScript**
+
+ 💬 Contact me on my 
+
+ 📫 Reach out to me: **mfranfc@gmail.com**
+
+
+ :dizzy: **My first line of code was "Hello hi!"**

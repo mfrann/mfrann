@@ -20,7 +20,7 @@ I'm a web developer :star:  I like to program :computer: and play basketball :ba
 
 <h3>My skills</h3>
   <a href="https://skillicons.dev">
-    ![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+    <img scr=""/>
   </a>
 
 <h3>Contact me</h2>

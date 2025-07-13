@@ -1,29 +1,50 @@
 
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://devfrann.netlify.app)
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Martin Caycho </h1>
- 
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Student;Freelancer;Enthusiast" alt="Headline" />
-    </div>  
-<p align="center"><a href="https://devfrann.netlify.app" target ='_blank'>Portfolio↗️</a></p>
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/spidertocat.png">
+# 👋 ¡Hola! Soy Fran 👨‍💻
 
-<h3>About me</h3>
+![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+Soy un estudiante apasionado por la **Ingeniería de Software**, actualmente preparándome para ingresar a la **Universidad Nacional Mayor de San Marcos (UNMSM)**.
 
-I'm 17 years old and I study in my school Santo Domingo Savio :blue_book: <br/> 
-I'm a web developer :star:  I like to program :computer: and play basketball :basketball:
+---
 
-<h3>My skills</h3>
-  <a href="https://skillicons.dev">
-    <img scr=""/>
-  </a>
+## 🚀 Sobre mí
 
-<h3>Contact me</h2>
+- 🎓 Aspirante a desarrollador **full-stack**.
+- 📚 Enfocado en **JavaScript**, **desarrollo web** y algoritmos.
+- 🇵🇪 Desde Lima, Perú.
+- 💻 Aprendiendo **React**, **HTML**, **CSS**, y creando proyectos personales.
+- 🌱 Siempre curioso por aprender nuevas tecnologías.
 
-<a href="https://www.instagram.com/_mfrann/">![Instagram](https://img.shields.io/badge/mfrann-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://x.com/_mfrann">![X](https://img.shields.io/badge/mfrann-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)</a>
-</a> ![Discord](https://img.shields.io/badge/mfrann%238014-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+---
+
+## 🛠️ Tecnologías y herramientas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+
+---
+
+## 📈 Estadísticas
+
+![Fran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfrann&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfrann&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mfrann&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## 🔗 Cómo encontrarme
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tuemail@mail.com)
+
+---
+
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+⭐ **¡Gracias por visitar mi perfil!**

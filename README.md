@@ -2,16 +2,15 @@
 
 **Frontend Developer | Future Software Engineer | Lifelong Learner**
 
-Bienvenido a mi espacio en GitHub 👨‍💻. Soy Fran, estudiante de **Ingeniería de Software**, con pasión por el desarrollo web y la tecnología. Actualmente me preparo para ingresar a la **UNMSM** 🇵🇪 y continúo aprendiendo todos los días.
+Welcome to my space on GitHub 👨‍💻. I'm Fran, a **Software Engineering** student with a passion for web development and technology. I'm currently preparing to enter **UNMSM** 🇵🇪 and continue to learn every day.
 
 ---
 
-## 🧩 Sobre mí
+## 🧩 About me
 
-- 💡 Me encanta construir interfaces limpias y funcionales.
-- 🌱 Explorando **JavaScript**, **React**, y mejores prácticas de desarrollo.
-- 🚀 Fan de los proyectos prácticos, la web accesible y el aprendizaje colaborativo.
-
+- 💡 I love building clean and functional interfaces.
+- 🌱 Exploring **JavaScript**, **React**, and development best practices.
+- 🚀 A fan of hands-on projects, the accessible web, and collaborative learning.
 ---
 
 ## ⚙️ Tech Stack

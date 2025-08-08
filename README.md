@@ -33,7 +33,7 @@ Welcome to my space on GitHub 👨‍💻. I'm Fran, a **Software Engineering** 
 
 ---
 
-## 🌐 Encuéntrame aquí
+## 🌐 Contact me
 
 [![Portafolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://devfrann.netlify.app/) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfranfc@gmail.com)

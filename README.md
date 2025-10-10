@@ -35,10 +35,10 @@ Welcome to my space on GitHub 👨‍💻. I'm Fran, a **Software Engineering** 
 
 ## 🌐 Contact me
 
-[![Portafolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://devfrann.netlify.app/) 
+[![Portafolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://mfrann.netlify.app/) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfranfc@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mfrann)
-[![Youtube](https://img.shields.io/badge/-Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCbNkKCJAOEmm36q5QaoDYiw)
+[![Youtube](https://img.shields.io/badge/-Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbNkKCJAOEmm36q5QaoDYiw)
 
 ---
 

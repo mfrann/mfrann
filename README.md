@@ -2,7 +2,7 @@
 
 **Frontend Developer | Future Software Engineer | Lifelong Learner**
 
-Welcome to my space on GitHub 👨‍💻. I'm Fran, a **Software Engineering** student with a passion for web development and technology. I'm currently preparing to enter **UNMSM** 🇵🇪 and continue to learn every day.
+Welcome to my space on GitHub 👨‍💻. I'm Fran, a **Software Engineering** student with a passion for web development and technology. I'm currently studying in **UPC** 🇵🇪 and continue to learn every day.
 
 ---
 

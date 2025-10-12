@@ -25,18 +25,7 @@
 
 | Website | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
-
-</div>
-
-<br>
-<br>
-<br>
-
-<div align="Center">
-<h1>Operating Systems</h1>
-
-<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+| <img src="https://skillicons.dev/icons?i=html,css,js,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,git,sublime,github"/> |
 
 </div>
 
@@ -51,13 +40,13 @@
 
 <div align="Center">
 
-| CtorW's Stats | Ultimate Streak |
+| Fran's Stats | Ultimate Streak |
 | ------------- | ------------- |
-| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
+| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=mfrann&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mfrann&theme=onedark&hide_border=true) 
 
 | Most Lang |
 | ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfrann&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
 
 
 </div>
@@ -69,11 +58,9 @@
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+| <a href="mailto:mfranfc@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/_mfrann"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ |
 
 </div>
 
 ------
 
-Credit: [Ctorw](https://github.com/CtorW)
-Last Edited on: 12/04/2005

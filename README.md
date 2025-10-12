@@ -7,7 +7,7 @@
 ---
 
 [![Open to work](https://img.shields.io/badge/Open_to_work-70A5FD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfrann)
-[![Learning React](https://img.shields.io/badge/Learning-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/mfrann)
+[![Learning SQL](https://img.shields.io/badge/Learning-SQL-61DAFB?style=for-the-badge&logo=sql&logoColor=black)](https://github.com/mfrann)
 [![Building a Game](https://img.shields.io/badge/Building-a%20Game-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://github.com/mfrann)
 
 </div>

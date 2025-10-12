@@ -1,109 +1,79 @@
-<div align="center">
-  <img height="200" src="file:///C:/Users/marti/OneDrive/Escritorio/workspace/personal/banner-codefran.png"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
-</div>
-
-###
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Martin and I'm a front-end developer, from Peru.</p>
-
-###
+<div align="Center">
+<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
 
 <div align="center">
-  <img src="https://count.getloli.com/@:@mfrann ?theme=asoul&padding=2&offset=0&scale=0.5&align=top&pixelated=0&darkmode=auto"  />
+
+<a href="https://github.com/CtorW">
+<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
+</a>
+
+[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
+[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
 </div>
 
-###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
+
+💻 Passionately building an **Arch Installer** project. 
+
+
+<div align="Center">
+<h1>Skills</h1>
 </div>
 
-###
+<div align="Center">
 
-<h2 align="left">About me</h2>
+| Website | Programming |
+| ------------- | ------------- |
+| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
 
-###
-
-<p align="left">🎓 Software Engineering student at UPC.<br>🚀 I'm currently improve my skills.<br>💼 I'm studying English at Británico.<br>🏀 I enjoy playing basketball.</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=@mfrann &hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=@mfrann &locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+<br>
+<br>
+<br>
 
-<h2 align="left">Tech Stack</h2>
+<div align="Center">
+<h1>Operating Systems</h1>
 
-###
+<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
 
-<p align="left">Coding</p>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="25" alt="css logo"  />
 </div>
 
-###
+<br>
+<br>
 
-<p align="left">Frameworks</p>
+| Snake Eating Contributions in the last year |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
-###
 
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
+
+<div align="Center">
+
+| CtorW's Stats | Ultimate Streak |
+| ------------- | ------------- |
+| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
+
+| Most Lang |
+| ----------|
+| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+
+
 </div>
 
-###
+<br>
+<br>
 
-<br clear="both">
+<div align="Center">
 
-<p align="left">Tools</p>
+|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
+| ----------|
+| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
 
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="25" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
 </div>
 
-###
+------
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/@mfrann /@mfrann /output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/@mfrann /@mfrann /output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/@mfrann /@mfrann /output/pacman-contribution-graph.svg">
-</picture>
-
-###
+Credit: [Ctorw](https://github.com/CtorW)
+Last Edited on: 12/04/2005

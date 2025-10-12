@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=180&section=header&text=Fran%20👨‍💻&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=180&section=header&text=CodeFran%20👨‍💻&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=💡+Web+Developer;🎮+Game+Developer;🚀+Tech+Enthusiast;📚+Always+Learning)](https://github.com/mfrann)
 

@@ -6,8 +6,8 @@
 <a href="https://github.com/mfrann">
 </a>
 
-[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
-[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
+[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/mfrann)
+[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/mfrann)
 </div>
 
 
@@ -24,7 +24,7 @@
 
 | Website | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,git,sublime,github"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,git,sublime,github"/> |
 
 </div>
 
@@ -41,11 +41,11 @@
 
 | Fran's Stats | Ultimate Streak |
 | ------------- | ------------- |
-| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=mfrann&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mfrann&theme=onedark&hide_border=true) 
+| ![Fran's Stats](https://github-readme-stats.vercel.app/api?username=mfrann&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![Frann's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mfrann&theme=onedark&hide_border=true) 
 
 | Most Lang |
 | ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfrann&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+| ![Fran's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfrann&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
 
 
 </div>

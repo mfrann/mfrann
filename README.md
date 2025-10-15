@@ -47,8 +47,8 @@
 
 <div align="center">
 
-![Fran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfrann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfrann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Fran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfrann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD)(https://github.com/mfrann)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfrann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)(https://github.com/mfrann)
 
 </div>
 

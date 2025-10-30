@@ -63,7 +63,7 @@
 
 🔹 **🎮 Online Catalog - Lima Outlet Store** — Responsive web site built with *React and JavaScript*.  
 🔹 **🧭 Interactive Portfolio** — Responsive design built with *HTML, CSS, and JavaScript*.  
-🔹 **🗂️ Task Manager App** — DOM manipulation, sound feedback, and fluid animations.  
+🔹 **🗂️ Restaurant website** — responsive, new design built with *REACT and JavaScript* 
 
 
 ---

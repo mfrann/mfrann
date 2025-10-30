@@ -8,7 +8,6 @@
 
 [![Open to work](https://img.shields.io/badge/Open_to_work-70A5FD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfrann)
 [![Learning TypeScript](https://img.shields.io/badge/Learning-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/mfrann)
-[![Building a Game](https://img.shields.io/badge/Building-a%20Game-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://github.com/mfrann)
 
 </div>
 

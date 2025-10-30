@@ -75,7 +75,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-mfrann-181717?style=for-the-badge&logo=github)](https://github.com/mfrann)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram)](https://instagram.com/_mfrann)
 [![Youtube](https://img.shields.io/badge/Youtube-Follow-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/@mfrann)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox)](https://mfrann.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox)](https://mfrann.vercel.app/)
 
 </div>
 

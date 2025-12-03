@@ -6,46 +6,31 @@
 
 ---
 
-[![Open to work](https://img.shields.io/badge/Open_to_work-70A5FD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfrann)
-[![Learning TypeScript](https://img.shields.io/badge/Learning-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/mfrann)
-
 </div>
 
 ---
 
-### 🌙 About Me  
-✨ Passionate about **web design, interactivity, and user experience**.  
-🚀 Always exploring new **technologies and creative projects**.  
-🎮 I also love **developing games** with *Godot Engine 4*.
+### Sobre Mi
+Soy estudiante de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas(UPC) en Peru, tengo conocimientos en web como HTML, CSS Y JS, tambien usando React. Me gusta aprender nuevas tecnologias y estoy enfocado en aprender para la rama de Ingenieria de Datos. 😊🎁
 
 ---
 
-### 🧠 Tech Stack  
+### 🧠 Mi Stack 
 
-#### 💻 Frontend  
+#### 💻 Web  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%2306B6D4.svg?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-#### 🧩 Tools & Others  
+#### 🧩 Herramientas 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23478CBF.svg?style=for-the-badge&logo=figma&logoColor=white)
 ---
 
-### 📈 GitHub Stats  
-
-<div align="center">
-
-![Fran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfrann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfrann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
 
 ---
 
@@ -59,16 +44,10 @@
 
 ---
 
-### 🚀 Featured Projects  
-
-🔹 **🎮 Online Catalog - Lima Outlet Store** — Responsive web site built with *React and JavaScript*.  
-🔹 **🧭 Interactive Portfolio** — Responsive design built with *HTML, CSS, and JavaScript*.  
-🔹 **🗂️ Restaurant website** — responsive, new design built with *REACT and JavaScript* 
-
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Conectamos ? 
 
 <div align="center">
 

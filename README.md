@@ -1,70 +1,82 @@
-<div align="center">
+# Hey! 👋 Soy Martin Caycho
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=180&section=header&text=Martin+Caycho%20👨‍💻&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=💡+Web+Developer;🚀+Tech+Enthusiast;📚+Always+Learning)](https://github.com/mfrann)
+### 🎯 Estudiante de Ingeniería de Software | Futuro Data Engineer
 
 ---
+
+## 🚀 Sobre mí
+
+¡Hola! Soy **Martin**, tengo 18 años y estudio Ingeniería de Software en la **UPC, Perú** 🇵🇪
+
+Actualmente estoy enfocado en aprender **lógica de programación** y adentrándome en el mundo del **Data Engineering**, que es donde quiero desarrollar mi carrera profesional.
+
+Cuando no estoy programando, probablemente me encuentres:
+- 🏀 Jugando basquet
+- 🎵 Escuchando música
+- 💻 Creando nuevos proyectos
+
+---
+
+## 🛠️ Tech Stack
+
+### Lenguajes
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
+
+### Tools
+![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📚 Lo que encontrarás aquí
+
+```python
+repositories = {
+    "📖 Lógica de Programación": "Ejercicios y fundamentos",
+    "🔧 Data Engineering": "Proyectos y pipelines de datos",
+    "🌐 Desarrollo Web": "Proyectos con React, HTML y CSS",
+    "💡 Aprendizaje continuo": "Siempre explorando nuevas tecnologías"
+}
+```
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfrann&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfrann&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff)
+
+---
+
+## 🎯 Actualmente
+
+- 📚 Estudiando **Data Engineering** y mejorando mis skills en pipelines de datos
+- 💻 Practicando **lógica de programación** diariamente
+- 🔨 Construyendo proyectos que combinan desarrollo web y análisis de datos
+- 🌱 Aprendiendo nuevas tecnologías del stack de Data Engineering
+
+---
+
+## 📫 Conectemos
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfrann)
+
+---
+
+<div align="center">
+  
+### ⚡ "El código es poesía en movimiento"
+
+*Gracias por visitar mi perfil! 🚀*
 
 </div>
-
----
-
-### Sobre Mi
-Soy estudiante de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas(UPC) en Peru, tengo conocimientos en web como HTML, CSS Y JS, tambien usando React. Me gusta aprender nuevas tecnologias y estoy enfocado en aprender para la rama de Ingenieria de Datos. 😊🎁
-
----
-
-### 🧠 Mi Stack 
-
-#### 💻 Web  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-#### 🧩 Herramientas 
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23478CBF.svg?style=for-the-badge&logo=figma&logoColor=white)
----
-
-
----
-
-### ⚡ GitHub Activity Graph  
-
-<div align="center">
-
-[![Fran's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mfrann&bg_color=0d1117&color=70A5FD&line=70A5FD&point=ffffff&area=true&hide_border=true)](https://github.com/mfrann)
-
-</div>
-
----
-
-
----
-
-### 🌐 Conectamos ? 
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-mfrann-181717?style=for-the-badge&logo=github)](https://github.com/mfrann)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram)](https://instagram.com/_mfrann)
-[![Youtube](https://img.shields.io/badge/Youtube-Follow-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/@mfrann)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox)](https://mfrann.vercel.app/)
-
-</div>
-
----
-
-<div align="center">
-
-✨ *"Code, create, and improve — one line at a time."* ✨  
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=100&section=footer"/>
-
-</div>
-

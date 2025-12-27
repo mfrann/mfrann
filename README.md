@@ -62,7 +62,7 @@ repositories = {
 
 - 📚 Estudiando **Data Engineering** y mejorando mis skills en pipelines de datos
 - 💻 Practicando **lógica de programación** diariamente
-- 🔨 Construyendo proyectos que combinan desarrollo web y análisis de datos
+- 🔨 Construyendo proyectos de datos y landing pages.
 - 🌱 Aprendiendo nuevas tecnologías del stack de Data Engineering
 
 ---
@@ -70,6 +70,7 @@ repositories = {
 ## 📫 Conectemos
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfrann)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/mfrann)
 
 ---
 

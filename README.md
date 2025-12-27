@@ -54,11 +54,7 @@ repositories = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfrann&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfrann&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mfrann&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfrann&show_icons=true&theme=dark)](https://github.com/mfrann)
 
 </div>
 

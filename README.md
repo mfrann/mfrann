@@ -52,9 +52,15 @@ repositories = {
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfrann&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfrann&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfrann&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfrann&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mfrann&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF)
+
+</div>
 
 ---
 
@@ -62,7 +68,7 @@ repositories = {
 
 - 📚 Estudiando **Data Engineering** y mejorando mis skills en pipelines de datos
 - 💻 Practicando **lógica de programación** diariamente
-- 🔨 Construyendo proyectos de datos y landing pages.
+- 🔨 Construyendo proyectos de desarrollo web y análisis de datos
 - 🌱 Aprendiendo nuevas tecnologías del stack de Data Engineering
 
 ---
@@ -70,13 +76,15 @@ repositories = {
 ## 📫 Conectemos
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfrann)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/mfrann)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mfrann)
+[![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@mcodef)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_mfrann)
 
 ---
 
 <div align="center">
   
-### ⚡ "El código es poesía en movimiento"
+### ⚡ "Pensar, antes de codear"
 
 *Gracias por visitar mi perfil! 🚀*
 

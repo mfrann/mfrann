@@ -53,9 +53,13 @@ repositories = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfrann&show_icons=true&theme=dark)](https://github.com/mfrann)
-
+<a href="https://github.com/mfrann">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mfrann&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfrann&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"/>
+</a>
+<a href="https://github.com/mfrann">
+  <img src="https://streak-stats.demolab.com?user=mfrann&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF"/>
+</a>
 </div>
 
 ---

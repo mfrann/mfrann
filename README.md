@@ -53,7 +53,7 @@ repositories = {
 ## 📊 GitHub Stats
 
 <div align="center">
-![Mis commits diarios](https://github-readme-activity-graph.vercel.app/graph?username=mfrann&theme=dracula&area=true&hide_border=true&custom_title=Commits%20por%20d%C3%ADa%20(%C3%BAltimos%2031%20d%C3%ADas)&point=ffffff&color=ffffff)
+![Commits](https://github-readme-activity-graph.vercel.app/graph?username=mfrann&theme=dracula&area=true&hide_border=true&custom_title=Commits%20por%20d%C3%ADa%20(%C3%BAltimos%2031%20d%C3%ADas)&point=ffffff&color=ffffff)
 </div>
 
 ---

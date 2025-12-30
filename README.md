@@ -52,7 +52,7 @@ repositories = {
 
 ## 📊 GitHub Stats
 
-![Commits](https://github-readme-activity-graph.vercel.app/graph?username=mfrann&bg_color=00000000&color=FFFFFF&title_color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF33&hide_border=true&custom_title=Commits%20por%20d%C3%ADa%20(%C3%BAltimos%2031%20d%C3%ADas))
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mfrann&theme=react-dark&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Commits%20diarios%20(últimos%2031%20días))
 
 ---
 

@@ -53,7 +53,7 @@ repositories = {
 ## 📊 GitHub Stats
 
 <div align="center">
-![mfrann's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfrann&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+<img src="https://contrib.rocks/image?repo=mfrann/mfrann" />
 </div>
 
 ---

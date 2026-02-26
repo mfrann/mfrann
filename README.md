@@ -1,25 +1,27 @@
-# Hey! 👋 Soy Martin Caycho
+# Hey! 👋 I'm Martin Caycho
 
-### 🎯 Estudiante de Ingeniería de Software | Futuro Data Engineer
+### 🎯 Software Engineering Student | Future Mobile Developer (iOS)
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-¡Hola! Soy **Martin**, tengo 18 años y estudio Ingeniería de Software en la **UPC, Perú** 🇵🇪
+Hi! I'm **Martin**, I'm 18 years old and I study Software Engineering at **UPC, Peru** 🇵🇪
 
-Actualmente estoy enfocado en aprender **lógica de programación** y adentrándome en el mundo del **Data Engineering**, que es donde quiero desarrollar mi carrera profesional.
+I'm currently focused on learning **programming logic** and getting into the world of **Mobile Development**, which is where I want to develop my professional career.
 
-Cuando no estoy programando, probablemente me encuentres:
-- 🏀 Jugando basquet
-- 🎵 Escuchando música
-- 💻 Creando nuevos proyectos
+## ⚽ Hobbies
+
+- 🏀 Playing basketball
+- 🎵 Listening to music
+- 🎮 Playing videogames
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Lenguajes
+### Languages
+
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=white)
@@ -27,9 +29,11 @@ Cuando no estoy programando, probablemente me encuentres:
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
 
 ### Tools
+
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
@@ -37,38 +41,25 @@ Cuando no estoy programando, probablemente me encuentres:
 
 ---
 
-## 📚 Lo que encontrarás aquí
+## 🎯 Currently
 
-```python
-repositories = {
-    "📖 Lógica de Programación": "Ejercicios y fundamentos",
-    "🔧 Data Engineering": "Proyectos y pipelines de datos",
-    "🌐 Desarrollo Web": "Proyectos con React, HTML y CSS",
-    "💡 Aprendizaje continuo": "Siempre explorando nuevas tecnologías"
-}
-```
+- 📚 Studying **Mobile Development** and improving my skills in iOS Development
+- 🌱 Currently exploring **Swift** and **SwiftUI**
+- 💻 Practicing **programming logic** daily
+- 🔨 Building web development and mobile apps
 
 ---
 
 ## 📊 GitHub Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mfrann&theme=react-dark&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Commits%20diarios%20(últimos%2031%20días))
+![Activity Graph](<https://github-readme-activity-graph.vercel.app/graph?username=mfrann&theme=react-dark&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Commits%20diarios%20(últimos%2031%20días)>)
 
 ---
 
-## 🎯 Actualmente
-
-- 📚 Estudiando **Data Engineering** y mejorando mis skills en pipelines de datos
-- 💻 Practicando **lógica de programación** diariamente
-- 🔨 Construyendo proyectos de desarrollo web y análisis de datos
-- 🌱 Aprendiendo nuevas tecnologías del stack de Data Engineering
-
----
-
-## 📫 Conectemos
+## 📫 Social Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfrann)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mfrann)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nskfrn)
 [![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@mcodef)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_mfrann)
 
@@ -76,8 +67,6 @@ repositories = {
 
 <div align="center">
   
-### ⚡ "Pensar, antes de codear"
-
-*Gracias por visitar mi perfil! 🚀*
+### ⚡ "Code Life"
 
 </div>

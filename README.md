@@ -55,5 +55,5 @@ I'm currently focused on **Full Stack Development**, building web apps from the 
 ---
 <div align="center">
 
-### ⚡ "OMAKASE >|<"
+### "OMAKASE >|<"
 </div>

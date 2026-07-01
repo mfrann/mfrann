@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-I'm Martin, an 18-year-old Software Engineering student at UPC (Peru) 🇵🇪.
-
-I'm passionate about mobile development and currently focused on building cross-platform applications using Flutter and Dart.
-
-I enjoy transforming ideas into intuitive, scalable, and high-performance mobile experiences while continuously learning new technologies and improving my software development skills.
+Soy estudiante de 1er ciclo de Ingeniería de Software en la UPC y apasionado por el desarrollo de aplicaciones móviles con Flutter.
+ 
+Actualmente me encuentro aprendiendo y desarrollando proyectos con Flutter y Dart, fortaleciendo mis habilidades mediante la práctica constante y el aprendizaje continuo. Me interesa crear aplicaciones móviles modernas, intuitivas y escalables que ofrezcan una excelente experiencia de usuario.
+ 
+Mi objetivo es desarrollarme como Flutter Developer, contribuir a proyectos innovadores y seguir creciendo profesionalmente en el mundo del desarrollo móvil.
 
 ---
 
@@ -42,7 +42,6 @@ I enjoy transforming ideas into intuitive, scalable, and high-performance mobile
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 
 ---

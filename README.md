@@ -1,65 +1,63 @@
 # 👋 Hi, I'm Martin Caycho
-### 💻 Software Engineering Student | Fullstack Developer
+### 🔧 Backend Developer | Software Engineering Student
 ---
 
 ## 🚀 About Me
 
-Soy estudiante de 1er ciclo de Ingeniería de Software en la UPC y desarrollador fullstack apasionado por construir aplicaciones web modernas, escalables y con excelente experiencia de usuario.
+Soy estudiante de 2do ciclo de Ingeniería de Software en la UPC y con enfoque a ser **backend developer** para construir APIs robustas, escalables y seguras que alimenten aplicaciones modernas.
 
-Actualmente me especializo en desarrollo fullstack JavaScript/TypeScript, creando soluciones end-to-end que van desde interfaces React intuitivas hasta backends robustos con Node.js y bases de datos PostgreSQL.
+Me pienso especializar en el desarrollo backend con **JavaScript/TypeScript**, creando soluciones sólidas con Node.js, Express y bases de datos PostgreSQL. Mi enfoque está en construir servidores confiables, optimizados y seguros que resuelvan problemas reales.
 
-Mi objetivo es dominar el stack fullstack completo, contribuir a proyectos innovadores y desarrollarme como ingeniero de software de alto nivel.
+Mi objetivo es dominar el backend profesional, construir sistemas escalables, contribuir a proyectos críticos y desarrollarme como ingeniero backend de alto nivel.
 
 ---
 
 ## 💼 Current Focus
 
-- 🎨 **Frontend**: React.js, Next.js, UI/UX Design
-- ⚙️ **Backend**: Node.js, Express.js, REST APIs
-- 🗄️ **Database**: Supabase, PostgreSQL, SQL
+- ⚙️ **Backend**: Node.js, Express.js, REST APIs, Arquitectura
+- 🗄️ **Database**: PostgreSQL, SQL, Database Design, Optimization
 - 📝 **Languages**: JavaScript, TypeScript
-- 🏗️ **Architecture**: Clean Code, Design Patterns, Scalability
-- 🔐 **Authentication**: JWT, OAuth, Session Management
+- 🔐 **Security**: Authentication, Authorization, Password Hashing, JWT
+- 🏗️ **Architecture**: Clean Code, Design Patterns, SOLID Principles
+- 🧪 **Testing**: Unit Testing, Integration Testing
+- 📡 **APIs**: REST Design, HTTP Methods, Status Codes, Error Handling
+- 🚀 **DevOps Basics**: Docker, Environment Management, Deployment
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### Backend
+### Backend Core
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### Database & Infrastructure
+### Database & Data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=336791)
 
 ### Developer Tools
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced React patterns (Context API, Custom Hooks, Performance Optimization)
-- Next.js advanced features (API Routes, SSR, ISR, Middleware)
-- Node.js & Express best practices (Middleware, Error Handling, Security)
-- PostgreSQL & SQL optimization (Queries, Indexing, Transactions)
-- Supabase advanced features (RLS, Real-time, Auth)
-- Software Architecture (SOLID Principles, Design Patterns, System Design)
-- Testing (Unit Testing, Integration Testing, E2E Testing)
-- DevOps basics (Docker, CI/CD, Deployment)
+- **JavaScript Fundamentals**: Closures, Callbacks, Promises, async/await
+- **Node.js Core**: Runtime, Modules, File System, Events, Debugging
+- **Express.js**: Routing, Middleware, Error Handling, Validation
+- **HTTP & REST**: Methods, Status Codes, Headers, API Design Principles
+- **PostgreSQL & SQL**: Queries, Joins, Relationships, Normalization, Optimization
+- **Backend Architecture**: Controllers, Services, Repositories, Dependency Injection
+- **Security**: Password Hashing, JWT Authentication, Authorization, Input Validation
+- **Database Integration**: Connection Pooling, Migrations, Transactions
+- **API Testing**: Unit Testing, Integration Testing, API Documentation
+- **Deployment & DevOps**: Docker, Environment Variables, CI/CD Basics
 
 ---
 
@@ -70,4 +68,15 @@ Mi objetivo es dominar el stack fullstack completo, contribuir a proyectos innov
 
 ## 🚀 Featured Projects
 
-*Repositorios destacados en construcción...*
+...
+
+---
+
+## 🎯 Mission
+
+Construir **APIs de calidad profesional** que sean:
+- ✅ **Robustas**: Manejo de errores y edge cases
+- ✅ **Seguras**: Autenticación, validación, protección de datos
+- ✅ **Escalables**: Arquitectura limpia y optimización
+- ✅ **Mantenibles**: Código legible y bien documentado
+- ✅ **Confiables**: Testing y monitoreo

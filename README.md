@@ -1,37 +1,43 @@
 # 👋 Hi, I'm Martin Caycho
-### 🔧 Backend Developer | Software Engineering Student
+### 🔧 Backend Developer (Python) | Frontend (TypeScript + Next.js) | Aspiring AI Engineer
 ---
 
 ## 🚀 About Me
 
-Soy estudiante de 2do ciclo de Ingeniería de Software en la UPC y con enfoque a ser **backend developer** para construir APIs robustas, escalables y seguras que alimenten aplicaciones modernas.
+Soy estudiante de 2do ciclo de Ingeniería de Software en la UPC, enfocado en construir **productos completos con IA**: APIs robustas, escalables y seguras en **Python**, e interfaces modernas en **TypeScript y Next.js**.
 
-Me pienso especializar en el desarrollo backend con **JavaScript/TypeScript**, creando soluciones sólidas con Node.js, Express y bases de datos PostgreSQL. Mi enfoque está en construir servidores confiables, optimizados y seguros que resuelvan problemas reales.
-
-Mi objetivo es dominar el backend profesional, construir sistemas escalables, contribuir a proyectos críticos y desarrollarme como ingeniero backend de alto nivel.
+Me estoy especializando en el desarrollo backend con **Python y FastAPI**, bases de datos **PostgreSQL** y la integración de **LLMs** (RAG, agentes, streaming) en aplicaciones reales. Mi objetivo es convertirme en **AI Engineer**: alguien capaz de llevar un modelo desde la idea hasta un producto usable en producción.
 
 ---
 
 ## 💼 Current Focus
 
-- ⚙️ **Backend**: Node.js, Express.js, REST APIs, Arquitectura
-- 🗄️ **Database**: PostgreSQL, SQL, Database Design, Optimization
-- 📝 **Languages**: JavaScript, TypeScript
+- ⚙️ **Backend**: Python, FastAPI, REST APIs, Arquitectura
+- 🗄️ **Database**: PostgreSQL, SQL, Database Design, pgvector
+- 🤖 **AI Engineering**: LLM APIs, RAG, Embeddings, Tool Use / Agentes, Evaluación
+- 🎨 **Frontend**: TypeScript, React, Next.js (App Router), Tailwind CSS
 - 🔐 **Security**: Authentication, Authorization, Password Hashing, JWT
 - 🏗️ **Architecture**: Clean Code, Design Patterns, SOLID Principles
-- 🧪 **Testing**: Unit Testing, Integration Testing
-- 📡 **APIs**: REST Design, HTTP Methods, Status Codes, Error Handling
-- 🚀 **DevOps Basics**: Docker, Environment Management, Deployment
+- 🧪 **Testing**: pytest, Unit Testing, Integration Testing
+- 🚀 **DevOps Basics**: Docker, Environment Management, CI/CD
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend Core
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
+### Backend & AI
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Pydantic](https://img.shields.io/badge/Pydantic-black?style=for-the-badge&logo=pydantic&logoColor=E92063)
+![pytest](https://img.shields.io/badge/pytest-black?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
+![Anthropic](https://img.shields.io/badge/Anthropic-black?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
 ### Database & Data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=336791)
@@ -48,15 +54,15 @@ Mi objetivo es dominar el backend profesional, construir sistemas escalables, co
 
 ## 📚 Currently Learning
 
-- **JavaScript Fundamentals**: Closures, Callbacks, Promises, async/await
-- **Node.js Core**: Runtime, Modules, File System, Events, Debugging
-- **Express.js**: Routing, Middleware, Error Handling, Validation
+- **Python Fundamentals**: Tipado con type hints, async/await, manejo de errores, entornos virtuales (uv)
+- **FastAPI**: Routing, Dependency Injection, Validación con Pydantic, Middleware
 - **HTTP & REST**: Methods, Status Codes, Headers, API Design Principles
 - **PostgreSQL & SQL**: Queries, Joins, Relationships, Normalization, Optimization
-- **Backend Architecture**: Controllers, Services, Repositories, Dependency Injection
+- **ORM & Migraciones**: SQLAlchemy 2.0, Alembic, Transactions, Connection Pooling
+- **Backend Architecture**: Routers, Services, Repositories, Dependency Injection
 - **Security**: Password Hashing, JWT Authentication, Authorization, Input Validation
-- **Database Integration**: Connection Pooling, Migrations, Transactions
-- **API Testing**: Unit Testing, Integration Testing, API Documentation
+- **LLMs & AI Engineering**: Prompting, Streaming, Embeddings, RAG, Agentes, Evaluación
+- **TypeScript & Next.js**: Tipos, Server/Client Components, Data Fetching, Consumo de APIs
 - **Deployment & DevOps**: Docker, Environment Variables, CI/CD Basics
 
 ---
@@ -66,17 +72,12 @@ Mi objetivo es dominar el backend profesional, construir sistemas escalables, co
 
 ---
 
-## 🚀 Featured Projects
-
-...
-
----
-
 ## 🎯 Mission
 
-Construir **APIs de calidad profesional** que sean:
-- ✅ **Robustas**: Manejo de errores y edge cases
-- ✅ **Seguras**: Autenticación, validación, protección de datos
+Construir **productos con IA de calidad profesional**, con backends y APIs que sean:
+- ✅ **Robustos**: Manejo de errores y edge cases
+- ✅ **Seguros**: Autenticación, validación, protección de datos
 - ✅ **Escalables**: Arquitectura limpia y optimización
-- ✅ **Mantenibles**: Código legible y bien documentado
-- ✅ **Confiables**: Testing y monitoreo
+- ✅ **Mantenibles**: Código legible, tipado y bien documentado
+- ✅ **Confiables**: Testing, evaluación de modelos y monitoreo
+- ✅ **Usables**: Interfaces claras en Next.js con respuestas en streaming
